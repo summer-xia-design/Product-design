@@ -1,0 +1,5 @@
+{
+  "name": "Sketch2Real ID",
+  "description": "A professional industrial design tool that converts product sketches into photorealistic renderings using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
